@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this project, cite the World Bank Indicators API and record the retrieval date."
+title: "India Climate & Energy Atlas"
+type: software
+authors:
+  - family-names: "Project contributor"
+    given-names: "India Climate & Energy Atlas"
+repository-code: "https://api.worldbank.org/v2/"
